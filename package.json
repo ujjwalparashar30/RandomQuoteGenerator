@@ -1,0 +1,11 @@
+{
+  "name": "randomquotegenerator",
+  "version": "1.0.0",
+  "description": "This is a web application which can generate random quotes. You can also generate quotes for a particular mood by using mood filter.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ujjwal",
+  "license": "ISC"
+}
